@@ -1,0 +1,8 @@
+{
+  "name": "js-bxtnni",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "firebase": "^7.20.0"
+  }
+}
